@@ -1,3 +1,5 @@
+                           Instagram User Analytics Project:
+
 This project is an attempt to provide insights into questions asked by the management team by
 analysing the data provided by the product team of Instagram. To start with my analysis, I first
 understood the different metrics provided. I understood marketing and investor metrics. Then, I
