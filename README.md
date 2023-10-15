@@ -1,7 +1,7 @@
-I assisted in the attempt to generate business insights for the marketing, product, and
-development teams in this project concerning Instagram user analysis by sending the data to
-them using SQL (structured query language). During this process, I used various SQL queries
-to collect the needed data. By using the data provided, I was able to determine the top-ranked
-oldest user, whether the user had posted any pictures or not, the most popular hashtag, the total
-number of users, and many other insights about Instagram.
+This project is an attempt to provide insights into questions asked by the management team by
+analysing the data provided by the product team of Instagram. To start with my analysis, I first
+understood the different metrics provided. I understood marketing and investor metrics. Then, I
+used the provided data for SQL analysis to find out the top-ranked oldest users, users who have
+never posted a single photo on Instagram, the most common hashtag, the total number of users,
+etc.
 
